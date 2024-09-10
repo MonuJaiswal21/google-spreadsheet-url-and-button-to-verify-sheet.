@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Google Sheet verify ",
+    "version": "1.0",
+    "description": "Enter your Sheets URL and verify it's valid.",
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
